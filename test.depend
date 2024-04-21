@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1713619305 source:c:\users\hoang tien\documents\sdl\game_prj\test\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"defs.h"
+	<cstdlib>
+	<SDL_mixer.h>
+
+1713153433 c:\users\hoang tien\documents\sdl\game_prj\test\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	<vector>
+	<SDL_mixer.h>
+
+1713013956 c:\users\hoang tien\documents\sdl\game_prj\test\defs.h
+
+1713629678 source:c:\users\hoang tien\documents\sdl\game_prj - copy (2)\test\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"defs.h"
+	<cstdlib>
+	<SDL_mixer.h>
+
+1713153433 c:\users\hoang tien\documents\sdl\game_prj - copy (2)\test\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	<vector>
+	<SDL_mixer.h>
+
+1713013956 c:\users\hoang tien\documents\sdl\game_prj - copy (2)\test\defs.h
+
