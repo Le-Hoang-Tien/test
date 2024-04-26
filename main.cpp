@@ -218,8 +218,8 @@ else if (gameState == 2) {
         while (SDL_PollEvent(&e1) != 0) {
             if (e1.type == SDL_KEYDOWN) {
                 if (e1.key.keysym.sym == SDLK_SPACE) {
-                    gameState = 1;
                     die=false;
+                    gameState = 1;
                     break;
                 } else if (e1.key.keysym.sym == SDLK_ESCAPE) {
                     quit = true;
